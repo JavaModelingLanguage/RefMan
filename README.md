@@ -2,7 +2,7 @@
 
 JML (Java Modeling Language) is a specification language for formally describing and reaasoning about Java programs.
 The RefMan repository holds (snapshots of) the LaTeX sources for the JML Reference Manual (2nd edition).
-The [ssues list](issues) is for discussions of JML semantics or requests for corrections/additions/changes to the reference manual or the language.
+The [issues list](https://github.com/JavaModelingLanguage/RefMan/issues) is for discussions of JML semantics or requests for corrections/additions/changes to the reference manual or the language.
 
 Other information can be found at the jmlspecs project site ([http://www.jmlspecs.org](http://www.jmlspecs.org)).
 
